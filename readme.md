@@ -1,6 +1,6 @@
 This is the repository for the python implementation of the Body Swap project created by Sebastian Hoppe and Dumitru Racicovschii.
 
-The repository and readme for the Raspberry Pi implementation is located at https://github.com/Hoppe2808/BodySwapUnity.
+The repository and readme for the Unity implementation is located at https://github.com/Hoppe2808/BodySwapUnity.
 
 # Setup
 
